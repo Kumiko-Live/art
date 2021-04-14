@@ -1,0 +1,12 @@
+# Temporary files
+*~
+
+# Windows thumbnail cache files
+[tT]humbs.db
+[tT]humbs.db.meta
+[tT]humbs.db:encryptable
+[eE]hthumbs.db
+[eE]hthumbs_vista.db
+
+# Windows folder config file
+[dD]esktop.ini
